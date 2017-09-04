@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.alfonso.beargamerclient.BearGamerClientActivity">
+    <item
+        android:id="@+id/itRegister"
+        android:orderInCategory="100"
+        android:title="Register"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/itLogIn"
+        android:orderInCategory="100"
+        android:title="LogIn"
+        app:showAsAction="never" />
+</menu>

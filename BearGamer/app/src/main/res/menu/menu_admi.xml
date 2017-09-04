@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/imClient"
+        android:title="Client">
+
+        <menu>
+            <item android:id="@+id/imClientRegister"
+                android:title="Resgister"/>
+            <item android:id="@+id/imClientUpdate"
+                android:title="Update"/>
+            <item android:id="@+id/imClientDelete"
+                android:title="Delete"/>
+            <item android:id="@+id/imClientSearch"
+                android:title="Search"/>
+        </menu>
+
+    </item>
+    <item
+        android:id="@+id/imAdmi"
+        android:title="Administrator">
+
+        <menu>
+            <item android:id="@+id/imAdmiRegister"
+                android:title="Resgister"/>
+            <item android:id="@+id/imAdmiUpdate"
+                android:title="Update"/>
+            <item android:id="@+id/imAdmiDelete"
+                android:title="Delete"/>
+            <item android:id="@+id/imAdmiSearch"
+                android:title="Search"/>
+        </menu>
+
+    </item>
+    <item
+        android:id="@+id/imGame"
+        android:title="Game">
+        <menu>
+            <item android:id="@+id/imGameRegister"
+                android:title="Resgister"/>
+            <item android:id="@+id/imGameUpdate"
+                android:title="Update"/>
+            <item android:id="@+id/imGameDelete"
+                android:title="Delete"/>
+            <item android:id="@+id/imGameSearch"
+                android:title="Search"/>
+        </menu>
+    </item>
+
+</menu>

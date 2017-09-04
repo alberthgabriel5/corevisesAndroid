@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BearGamer</string>
+    <string name="action_settings">Settings</string>
+    <string name="url_wcf">http://localhost:54873/Service1.svc?wsdl</string>
+    <string name="method_insertAdmi">insertAdmi</string>
+    <string name="method_initSessionAdmi">initSessionAdmi</string>
+    <string name="method_updateAdmi">updateAdmi</string>
+    <string name="method_deleteAdmi">deleteAdmi</string>
+    <string name="title_activity_admi">AdmiActivity</string>
+    <string name="title_activity_register_admi">RegisterAdmiActivity</string>
+    <string name="title_activity_register_client">RegisterClientActivity</string>
+    <string name="title_activity_update_client">UpdateClientActivity</string>
+    <string name="title_activity_delete_client">DeleteClientActivity</string>
+    <string name="title_activity_search_client">SearchClientActivity</string>
+    <string name="title_activity_update_admi">UpdateAdmiActivity</string>
+    <string name="title_activity_register_game">RegisterGameActivity</string>
+
+</resources>

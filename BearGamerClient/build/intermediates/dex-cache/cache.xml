@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alfonso\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Users\Alfonso\Documents\BearGamerClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_7413fa691af5f34455259f76bf094fc41c57f057\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alfonso\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\Users\Alfonso\Documents\BearGamerClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_871efe64aed1bc57362b61026dd1b110b4643331\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Alfonso\Documents\BearGamerClient\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_cfa597a98bc500ba58e6ccce54c5fdaa21b7479b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alfonso\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\Alfonso\Documents\BearGamerClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_b4aea3a773c70621ab3b7b6e4214ab3ec31fe983\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Alfonso\Documents\BearGamerClient\app\build\intermediates\pre-dexed\debug\okio-1.8.0_719dd276513d1af9de5b37ee40421a33d138d06e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alfonso\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Alfonso\Documents\BearGamerClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_7b7d236631cba3e94a753896027f189a9e3c7269\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Alfonso\Documents\BearGamerClient\app\build\intermediates\pre-dexed\debug\gson-2.7_73da38e863d268e13dab9e34fe418783e992e4fb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alfonso\.android\build-cache\fc4ff579c1901147ba5da202febeafd9c141fce2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="C:\Users\Alfonso\Documents\BearGamerClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef3cbecbd3905e48f8097afa18675fa8c77b8456\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Alfonso\Documents\BearGamerClient\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_9f23191b5cfe224561eef343dac4234ca3cc146b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alfonso\Documents\BearGamerClient\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Alfonso\Documents\BearGamerClient\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a9d7a495dd2606f8d2e0a3cd195732ad1144f821\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alfonso\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.6.0\81887458b69ddc32722df7e4c35235fd74e6a8ba\logging-interceptor-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
+        <dex dex="C:\Users\Alfonso\Documents\BearGamerClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.6.0_519b0f1a3f9457ee5a002afe5bdf23481282947d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alfonso\Documents\BearGamerClient\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b96162f6196062564d121bf247ba521a3374fe44">
+        <dex dex="C:\Users\Alfonso\Documents\BearGamerClient\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cc3641d4af3c675034baedbc3f92dace04b0c5bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Alfonso\Documents\BearGamerClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alfonso\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\Alfonso\Documents\BearGamerClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_69f725100ca63aad431a211d71bdbc986aebe0f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alfonso\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.1.0\d6854f42bfb4098d3d2358d93201307b9f1cc95d\butterknife-annotations-8.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="C:\Users\Alfonso\Documents\BearGamerClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.1.0_4ca308d4c90d61f6a93352634b540d8d39d74486\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alfonso\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Alfonso\Documents\BearGamerClient\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_d7a5c86b2274cda2313cfd8bcb7f241e068516bd.jar" />
+    </item>
+
+</items>
